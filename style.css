@@ -1,0 +1,39 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.TicHeader {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#msg {
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    display: grid;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+.colons{
+    background-color: blanchedalmond;
+    border: solid black 1px;
+    text-align: center;
+    font-size: 100px;
+    max-height: 150px;
+    max-width: 150px;
+}
+
+#playAgain {
+    margin-left: 330px;
+}
+
+.result {
+    margin-left: 100px;
+    margin-top: 150px;
+    font-size: 20px;
+}
